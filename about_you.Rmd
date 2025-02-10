@@ -6,7 +6,7 @@ output:
     number_sections: true
     toc: true
     toc_depth: 5
-date: "`r Sys.Date()`"   
+date: "`Spring 2025"   
 ---
 
 # A Little Survey
