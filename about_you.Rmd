@@ -6,7 +6,7 @@ output:
     number_sections: true
     toc: true
     toc_depth: 5
-date: "'Spring 2025"   
+date: "Spring 2025"   
 ---
 
 # A Little Survey
@@ -18,7 +18,9 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer 
 
-  
+ I attended Desert Sands Charter High school. I graduated in November of last year. 
+ I feel as though that I was always better at math then I was in English class. it was easier for me because I like problem solving more then I do writing. 
+ My best subject was History and Math. Those two were always my best subjects in school
 
      
 
